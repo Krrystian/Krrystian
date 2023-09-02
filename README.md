@@ -6,7 +6,7 @@
 
 ### Technologies
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux) ![MacOS](https://img.shields.io/badge/-MacOS-000?logo=MacOS) ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js) ![React](https://img.shields.io/badge/-React-000?&logo=React) ![Redux](https://img.shields.io/badge/Redux-000?&logo=redux) ![Next JS](https://img.shields.io/badge/Next-000?logo=next.js)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-000?logo=tailwind-css&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-000?logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDb-000?&logo=mongodb) ![Express](https://img.shields.io/badge/-Express-000?&logo=express)
 
 ### Full Stack Projects
 [![](https://img.shields.io/badge/-🐕%20Dog%20Shop-000)](https://dog-shop-flame.vercel.app)
