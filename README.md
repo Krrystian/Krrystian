@@ -9,7 +9,7 @@
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-000?logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb) ![Express](https://img.shields.io/badge/-Express-000?&logo=express)
 
 ### Full Stack Projects
-[![](https://img.shields.io/badge/-🐕%20Dog%20Shop-000)](https://dog-shop-flame.vercel.app)
+[![](https://img.shields.io/badge/-🐕%20Dog%20Shop-000)](https://dog-shop-flame.vercel.app) [![](https://img.shields.io/badge/-?%20Why?%20BLOG-000)](https://mern-blog-frontend-krrystian.vercel.app)
 
 
 ### Front-end Projects
