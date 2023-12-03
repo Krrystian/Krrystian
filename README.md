@@ -10,6 +10,7 @@
 
 ### Full Stack Projects
 [![](https://img.shields.io/badge/-🐕%20Dog%20Shop-000)](https://dog-shop-flame.vercel.app) [![](https://img.shields.io/badge/-❔%20Why%20MERN%20BLOG-DC6A00)](https://mern-blog-frontend-krrystian.vercel.app) 
+[![](https://img.shields.io/badge/-🚀%20Todo%20List-799)](https://github.com/Krrystian/mern-todo)
 
 
 ### Front-end Projects
